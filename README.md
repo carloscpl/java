@@ -1,2 +1,2 @@
 # java
-Esse repositorio irá armazenar códigos básicos do java
+Esse repositorio irá armazenar códigos básicos do java!
