@@ -1,4 +1,4 @@
-public class MinhaClasse {
+public class NomeCompleto {
     public static void main(String[] args) {
         String primeiroNome = "Carlos";
         String segundoNome  = "Pereira Lopes";
