@@ -9,10 +9,9 @@ import org.springframework.web.bind.annotation.RestController;
 import com.carlos.spring_boot.model.Pessoa;
 
 
-
 @RestController
 public class Controller {
-
+    
     @GetMapping("/{nome}")
     public String boasvindas(@PathVariable String nome) {
         return "Seja bem vindo (a) " + nome;
